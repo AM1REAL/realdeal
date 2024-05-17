@@ -41,12 +41,12 @@ POST/perevals/
  
   "add_time": "2021-09-22 13:18:13",
   "tourist_id": {"email": "qwerty@mail.ru", 		
-        "last_name": "Пупкин",
-		 "first_name": "Василий",
-		 "patronymic": "Иванович",
+        "surname": "Пупкин",
+		 "name": "Василий",
+		 "father_name": "Иванович",
         "phone": "+7 555 55 55"}, 
  
-   "coord_id":{
+   "cord_id":{
   "latitude": "45.3842",
   "longitude": "7.1525",
   "height": "1200"}
